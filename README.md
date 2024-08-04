@@ -1,4 +1,4 @@
-# Munazzil-shopper
+# Munazzil-Ecommerce
 
 ## ⌨️ Development
 
